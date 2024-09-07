@@ -4,7 +4,7 @@ Ce projet consiste à implementer un système de gestion de commande en programa
 
 ## Prérequis
 
-Avant de commencer, assurez-vous d'avoir installé l'élément suivants:
+Avant de commencer, assurez-vous d'avoir installé l'élément suivant:
 
 - [Node.js](https://nodejs.org/) (version 12 ou supérieure)
 
