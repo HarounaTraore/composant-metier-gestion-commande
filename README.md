@@ -1,6 +1,6 @@
-# Gestion de Commande
+# Gestion des Commandes
 
-Ce projet consiste à implementer un système de gestion de commande en programation orientée objet (POO) et avec express en se basant sur le diagramme de classe pre-établis. Le système permet de realiser les opération CRUD des clients et des produits.
+Ce projet consiste à implementer les composants métiers d'un système de gestion des commandes en programation orientée objet (POO) et avec express en se basant sur le diagramme de classe pre-établis.
 
 ## Prérequis
 
@@ -24,6 +24,10 @@ Avant de commencer, assurez-vous d'avoir installé l'élément suivant:
 
 - Installer les dependences :
 
+  ```bash
+        npm install
+  ```
+
 ## Utilisation
 
 - Lancer le projet :
@@ -32,10 +36,10 @@ Avant de commencer, assurez-vous d'avoir installé l'élément suivant:
       npm start
   ```
 
-## Diagramme de class
+## Diagramme de classe
 
 ![](src/assets/img/diagram-class.png)
 
-## Author
+## Auteur
 
-- **GitHub** : [Harouna Adama Traoré](https://github.com/HarounaTraore/)
+[Harouna Adama Traoré](https://github.com/HarounaTraore/)
